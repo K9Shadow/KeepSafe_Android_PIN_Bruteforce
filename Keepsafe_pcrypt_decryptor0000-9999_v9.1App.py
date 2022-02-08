@@ -1,6 +1,6 @@
 # die Variable "hashed" hat wie folgt auszusehen: b'$2b$04$mIYoOZrAQm3jr0DrrE8Mqe/mxSiR.Pe/wPfTuJUfMKHxay8O0CmpG'
 # bei dem vorliegenden bcrypt-Hash ist das Passwort 3101
-# Script erstellt durch Linder 06.10.2020
+# Script erstellt durch Niklas Linder
 # Happy Bruteforcing :)
 
 import bcrypt
