@@ -1,4 +1,4 @@
 # keepsafepinbruteforce
-PIN Bruteforce für die KeepSafe Android App v 9.1.0
+PIN Bruteforce für die KeepSafe Android Apps v 9.1.0 und v 10.x
 
-(c) Niklas Linder, 06.10.2020 :)
+(c) Niklas Linder
